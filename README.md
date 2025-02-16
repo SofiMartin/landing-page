@@ -1,4 +1,4 @@
-🎮 Pokémon Landing Page 🌟
+#🎮 Pokémon Landing Page 🌟#
 
 Bienvenido/a al mundo de Pokémon con esta Landing Page temática , diseñada para los fanáticos de Pikachu, Torchic y todos los demás Pokémon. Esta página web utiliza tecnologías modernas como React , Tailwind CSS , Framer Motion y Bootstrap Icons para crear una experiencia visualmente atractiva y funcional.
 
@@ -29,6 +29,7 @@ Diseñado con Tailwind CSS para adaptarse a diferentes tamaños de pantalla.
 Compatible con dispositivos móviles, tablets y escritorios.
 
 💻 Tecnologías Utilizadas
+
 Este proyecto utiliza las siguientes tecnologías:
 
 - React : Framework de JavaScript para construir interfaces de usuario.
@@ -45,7 +46,7 @@ git clone https://github.com/tu-usuario/pokemon-landing-page.git
 cd pokemon-landing-page
 2. Instalar Dependencias:
 npm install
-3. Inicializa el proyecto
+3. Inicializa el proyecto:
 npm run dev
 
 
