@@ -1,0 +1,13 @@
+/* Importar Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Importar Tailwind CSS */
+@import "tailwindcss";
+
+/* Importar Bootstrap Icons */
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+/* Estilo global para usar la fuente Pokémon */
+.font-pokemon {
+  font-family: 'Press Start 2P', cursive;
+}
