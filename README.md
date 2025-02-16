@@ -1,5 +1,4 @@
 🎮 Pokémon Landing Page 🌟
-Pokémon Logo
 
 Bienvenido/a al mundo de Pokémon con esta Landing Page temática , diseñada para los fanáticos de Pikachu, Torchic y todos los demás Pokémon. Esta página web utiliza tecnologías modernas como React , Tailwind CSS , Framer Motion y Bootstrap Icons para crear una experiencia visualmente atractiva y funcional.
 
